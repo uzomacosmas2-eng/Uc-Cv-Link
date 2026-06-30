@@ -3,7 +3,7 @@
 
 A responsive personal CV website built with HTML, CSS, and Tailwind CSS.
 
-**Live Site:** Https://uzomacosmas2-eng.github.io/uc-cv/
+**Live Site:** https://uzomacosmas2-eng.github.io/Uc-Cv-Link
 
 ---
 
